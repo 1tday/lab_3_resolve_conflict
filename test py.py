@@ -1,6 +1,6 @@
 
 
-def f(x, y) -> int :
-    print(x**y)
+def f(x, y, z) -> int :
+    print(x + y + z)
 
-f(5, 10)
+f(5, 10, 12)
