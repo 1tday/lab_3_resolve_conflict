@@ -1,6 +1,6 @@
 
 
 def f(x, y) -> int :
-    print(x + y)
+    print(x**y)
 
 f(5, 10)
